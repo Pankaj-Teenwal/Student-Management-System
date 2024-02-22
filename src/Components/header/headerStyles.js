@@ -20,6 +20,7 @@ export const ButtonWrapper = styled.div`
     align-item:center;
     justify-content:center;
     gap:20px;
+    font-family: Montserrat;
 
 
 
