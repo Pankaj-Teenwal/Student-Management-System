@@ -38,6 +38,7 @@ export const Button = styled.button`
     }
     padding:12px;
     cursor: pointer;
+    font-family: Montserrat;
     // height:80px;
     
 `
